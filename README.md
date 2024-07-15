@@ -1,16 +1,26 @@
-# ux_lab
+# WordQuest
+Welcome to **WordQuest**, a Flutter project developed for a User Experience lecture. This application features a clean and intuitive front-end with three main pages:
 
-A new Flutter project.
+## Pages
+1. **Settings**
+   - Includes various settings options and a toggle switch for user preferences.
+   - Allows customization of the user experience.
 
-## Getting Started
+2. **Statistics**
+   - Presents detailed statistics related to user activity and performance.
+   - Provides insights into user progress and achievements.
 
-This project is a starting point for a Flutter application.
+3. **Streaks**
+   - Tracks and displays user streaks for completed tasks or activities.
+   - Encourages consistent engagement through visual streak indicators.
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
+Contributions are welcome! Steps to contribute:
+1. Fork the Repository
+2. Create a New Branch
+3. Make Your Changes
+4. Submit a Pull Request
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contact
+For any questions or feedback, please reach out to keyforedu@gmail.com
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
